@@ -11,6 +11,7 @@ chunk 16x16x16, ao, texturearray, collision detection, select block, particle sy
 
 First test 16x2x16 chunks world
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fe15609f-2d46-43c1-9de3-539882d14737" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6339a548-cd26-4af1-affc-fce7bedcdfd8" />
+
 
 
