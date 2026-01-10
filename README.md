@@ -22,3 +22,6 @@ Epic Generation moment(in some infinite with phisycs) - test infinite with physi
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/353613f4-ee1b-4cbb-ab85-eaf6623fab60" />
 
+infinite with cave system is just something like 1 standard default biom
+
+<img width="1919" height="1080" alt="image" src="https://github.com/user-attachments/assets/76fc8e9f-bc34-4d5c-9175-de506c497a84" />
