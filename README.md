@@ -5,6 +5,11 @@ Amaizing ))))
 
 chunk 16x16x16, ao, texturearray, collision detection, select block, particle system, meshing, seed,format file(container save)
 
+funny moment
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c69f4645-ef69-444d-99f7-41ec64ef7a2b" />
+
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5b7a1900-8a21-4941-87be-f1c0d876abe9" />
 
 
