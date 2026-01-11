@@ -3,6 +3,9 @@ VoxelGame(Rust)
 
 Amaizing ))))
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/92531199-3c6c-4c21-9b2e-7fc9b4c8bc35" />
+
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7d1b4730-5a4d-474f-951d-868246c7ac2e" />
 
 
