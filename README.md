@@ -3,6 +3,9 @@ VoxelGame(Rust)
 
 Amaizing ))))
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0930e35e-e905-4dd2-bc61-ec192df3ef94" />
+light propagation
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3fff9f59-8bdd-45d0-a27a-cd06ae25d8c7" />
+
 
 
