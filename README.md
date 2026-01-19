@@ -13,3 +13,7 @@ light propagation (just block, just test - i use chunk light+chunk data), next i
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c6081060-c022-4983-a9ba-5000099aa95a" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d9eb6861-cd03-42d3-9134-19a9881dec5f" />
+
+
+https://github.com/user-attachments/assets/a4537c93-853d-4c24-ad9a-89627c757e0e
+
