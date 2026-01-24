@@ -5,7 +5,8 @@ Amaizing ))))
 
 light propagation (just block, just test - i use chunk light+chunk data), next i want state world regeneration, simulation propagation states(like next next next next...)
 
-<img width="1194" height="751" alt="image" src="https://github.com/user-attachments/assets/491e933d-4635-450c-9bfc-118b0d5291b5" />
+<img width="1195" height="741" alt="image" src="https://github.com/user-attachments/assets/e5b09777-3744-4e40-a840-5259cf20c276" />
+
 
 
 
