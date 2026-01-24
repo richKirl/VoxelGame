@@ -7,7 +7,8 @@ light propagation (just block, just test - i use chunk light+chunk data), next i
 
 this is amaizing font (ttf pixel from scratch hand-made)
 
-<img width="1195" height="741" alt="image" src="https://github.com/user-attachments/assets/9e2e5c1c-cd6e-4459-9992-b81694d9e3bf" />
+<img width="1193" height="746" alt="image" src="https://github.com/user-attachments/assets/3a8aab90-abf8-4bb9-80a3-36b1d0a33762" />
+
 
 
 
